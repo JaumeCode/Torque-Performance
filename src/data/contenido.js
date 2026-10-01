@@ -1,0 +1,9 @@
+export const SERVICIOS=[
+      {t:'Diagnóstico de patinamiento',d:'Detectamos si el fallo está en el embrague, el volante o la transmisión de par.'},
+      {t:'Capacidad del embrague original',d:'Estimamos cuánto par aguanta antes de patinar.'},
+      {t:'Selección de embragues reforzados',d:'Elegimos según la potencia y el par reales del vehículo.'},
+      {t:'Sustitución y montaje',d:'Montaje completo del conjunto con útiles de centrado.'},
+      {t:'Comprobaciones posteriores',d:'Prueba de arranque, pedal y ausencia de patinamiento.'},
+      {t:'Asesoramiento para modificados',d:'Ayudamos a quien reprograma o prepara su coche.'}]
+export const TABLA=[['Potencia original','150 CV'],['Par original','320 Nm'],['Potencia tras reprogramación','190 CV'],['Par tras modificación','420 Nm'],['Capacidad del embrague original','350 Nm'],['Capacidad del embrague reforzado','500 Nm'],['Problema estudiado','Patinamiento bajo alta carga']]
+export const APARTADOS=[['Presentación de la empresa','Nombre, imagen corporativa, actividad, ubicación ficticia y filosofía.'],['Estudio de mercado','Clientes, competencia y necesidades de la especialización.'],['Instalaciones','Distribución, elevadores, zona de diagnosis, almacén y recepción.'],['Equipamiento','Herramientas, elevador, diagnosis, útiles de embrague y medición.'],['Fundamento técnico','Funcionamiento, transmisión de par, fricción y causas del patinamiento.'],['Caso práctico','Síntomas, diagnosis, cálculo, elección y procedimiento de reparación.'],['Comparativa','Embrague original frente a alternativas reforzadas.'],['Presupuesto','Piezas, mano de obra, consumibles, impuestos y precio final.'],['Gestión del taller','Recepción, orden de reparación, proveedores, stock y garantía.'],['Seguridad y medio ambiente','Trabajo en elevador, residuos y buenas prácticas.'],['Marketing','Web ficticia, redes, servicios y estrategia comercial.'],['Conclusiones','Resultados, viabilidad y aprendizajes.']]

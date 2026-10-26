@@ -16,10 +16,10 @@ onMounted(() => {
 </script>
 
 <template>
-<header class="stage" ref="stage">
+<header class="stage" id="inicio" ref="stage">
   <div class="txt">
     <h1>Torque<br>Performance</h1>
-    <p>Taller especializado en embragues reforzados y transmisión para vehículos con más par del que salió de fábrica.</p>
+    <p>Taller especializado en embragues reforzados y transmisión para vehículos con más par del que salió de fábrica.Tienda simulada con proposito Educativo.</p>
   </div>
   <div class="hint">Desplázate para despiezar<br>el conjunto de embrague</div>
   <svg viewBox="0 0 1000 380" preserveAspectRatio="xMidYMid meet" aria-label="Vista despiezada de un embrague">

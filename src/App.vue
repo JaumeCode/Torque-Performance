@@ -7,6 +7,7 @@ import MarketSection from './components/MarketSection.vue'
 import ClutchLab from './components/ClutchLab.vue'
 import CaseStudy from './components/CaseStudy.vue'
 import ShopSection from './components/ShopSection.vue'
+import BrakeSection from './components/BrakeSection.vue'
 import CompanySection from './components/CompanySection.vue'
 import TechSection from './components/TechSection.vue'
 import WorkshopSection from './components/WorkshopSection.vue'
@@ -31,6 +32,7 @@ onMounted(() => {
     <ClutchLab />
     <CaseStudy />
     <ShopSection />
+    <BrakeSection />
     <CompanySection />
     <TechSection />
     <WorkshopSection />
